@@ -12,7 +12,7 @@ This is a custom WordPress website developed for Bettega. The project focused on
 - Custom Post Types
 
 ## Live Preview
-[https://bettegacob.com.br//](https://bettegacob.com.br/)
+[https://bettegacob.com.br/](https://bettegacob.com.br/)
 
 ## My Role
 - Full website development
